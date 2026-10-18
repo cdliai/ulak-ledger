@@ -2,6 +2,7 @@
 
 | File | Created | Forecasts | SHA-256 | Status |
 |---|---|---|---|---|
+| [prereg_bench_20261018T093507Z.jsonl](forecasts/prereg_bench_20261018T093507Z.jsonl) | 2026-10-18 09:35 UTC | 252 | `99d9fc2628daa2aa2246e588573418780f52f0c5ccd111ac0f90ffdd9c80814a` | official |
 | [prereg_bills_20261017T1119Z.jsonl](withdrawn/prereg_bills_20261017T1119Z.jsonl) | 2026-10-17 11:19 UTC | 4787 | `6ebf41b19dd806d394c4a2088e3b430551a688a95ac7ac4673e42f07d9c56fc5` | withdrawn: stale decree-law items included |
 | [prereg_bills_20261017T1120Z.jsonl](withdrawn/prereg_bills_20261017T1120Z.jsonl) | 2026-10-17 11:20 UTC | 189 | `392368221e52d9892b164c7953633c63ff1fd9e10f7ec653f725ec3ab27530c6` | withdrawn: esas-number collision across terms |
 | [prereg_bills_20261017T1121Z.jsonl](withdrawn/prereg_bills_20261017T1121Z.jsonl) | 2026-10-17 11:21 UTC | 203 | `5414e4c5a82d530d955cad4eb06ac5290a6eb1b84f4a707327a216ba11ab9ca4` | duplicate of prereg_bills_20261017T112200Z.jsonl |

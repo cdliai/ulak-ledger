@@ -15,7 +15,7 @@ meeting?".
 3. Published forecast files are never edited. Withdrawn files stay public under
    `withdrawn/`, with the reason.
 
-## Status (updated 2026-10-18 09:01 UTC)
+## Status (updated 2026-10-18 09:39 UTC)
 
 - Forecasts registered: **613** (official files only)
 - Resolved so far: **0**

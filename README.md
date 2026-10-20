@@ -15,9 +15,9 @@ meeting?".
 3. Published forecast files are never edited. Withdrawn files stay public under
    `withdrawn/`, with the reason.
 
-## Status (updated 2026-10-19 06:55 UTC)
+## Status (updated 2026-10-20 05:05 UTC)
 
-- Forecasts registered: **1068** (official files only)
+- Forecasts registered: **1667** (official files only)
 - Resolved so far: **0**
 
 | File | Forecasts | Resolved | Brier (resolved) |
@@ -27,7 +27,9 @@ meeting?".
 | prereg_bills_20261017T113200Z.jsonl | 203 | 0 | — |
 | prereg_bills_20261018T043003Z.jsonl | 203 | 0 | — |
 | prereg_bills_20261019T043003Z.jsonl | 203 | 0 | — |
+| prereg_bills_20261020T043002Z.jsonl | 213 | 0 | — |
 | prereg_cpi_20261018T085936Z.jsonl | 2 | 0 | — |
+| prereg_index_20261019T065540Z.jsonl | 386 | 0 | — |
 | prereg_tcmb_20261017T113447Z.jsonl | 2 | 0 | — |
 
 ## Record format

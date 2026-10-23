@@ -2,10 +2,19 @@
  "summary": {
   "file": "prereg_bench_20261018T093507Z.jsonl",
   "n": 252,
-  "resolved": 0,
-  "open": 252,
-  "yes_so_far": 0,
-  "questions": 42
+  "resolved": 18,
+  "open": 234,
+  "yes_so_far": 12,
+  "questions": 42,
+  "brier_by_model": {
+   "anthropic/claude-haiku-5.5": 0.3564,
+   "anthropic/claude-opus-4.7": 0.2673,
+   "anthropic/claude-sonnet-5.5": 0.379,
+   "cdli/ulak-1": 0.2546,
+   "deepseek/deepseek-v4.1-flash": 0.395,
+   "openai/gpt-6-sol": 0.2351
+  },
+  "brier_base_rate": 0.5291
  },
  "items": [
   {
@@ -226,8 +235,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -243,8 +252,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -260,8 +269,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -277,8 +286,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -294,8 +303,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -311,8 +320,8 @@
    "setting": "S-context",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 16.01.2027 tarihine kadar (bu tarih dahil) TBMM Genel Kurulunda kabul edilecek mi?",
    "task": "T1",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4105,8 +4114,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4125,8 +4135,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4145,8 +4156,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4165,8 +4177,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4185,8 +4198,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4205,8 +4219,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) artıracak mı?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4225,8 +4240,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4245,8 +4261,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4265,8 +4282,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4285,8 +4303,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4305,8 +4324,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -4325,8 +4345,9 @@
    "setting": "S-context",
    "statement_tr": "TCMB 22.10.2026 PPK toplantısında politika faizini (bir hafta vadeli repo ihale faiz oranı) indirecek mi?",
    "task": "T3",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "decided_rate": 36.0
   }
  ]
 }

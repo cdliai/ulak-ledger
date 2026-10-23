@@ -2,9 +2,10 @@
  "summary": {
   "file": "prereg_bills_20261020T043002Z.jsonl",
   "n": 213,
-  "resolved": 0,
-  "open": 213,
-  "yes_so_far": 0
+  "resolved": 2,
+  "open": 211,
+  "yes_so_far": 2,
+  "brier": 0.0873
  },
  "items": [
   {
@@ -2650,8 +2651,8 @@
    "stage": "S1",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 19.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-20T04:30:00+00:00",
@@ -2664,8 +2665,8 @@
    "stage": "S1",
    "statement_tr": "\"Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi\" 19.12.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-10-20T04:30:00+00:00",

@@ -2,9 +2,14 @@
  "summary": {
   "file": "prereg_rg_20261023T044024Z.jsonl",
   "n": 2,
-  "resolved": 0,
-  "open": 2,
-  "yes_so_far": 0
+  "resolved": 2,
+  "open": 0,
+  "yes_so_far": 2,
+  "brier": 0.1997,
+  "brier_by_model": {
+   "ulak-core.rg.v1.km_recent60.shadow": 0.0141,
+   "ulak-core.rg.v1.recent_ecdf": 0.3853
+  }
  },
  "items": [
   {
@@ -30,8 +35,9 @@
    "qid": "d1f015b5bc6ca74e",
    "statement_tr": "7596 sayılı \"TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN\", TBMM Genel Kurulunda kabul edildiği 22.10.2026 tarihinden itibaren 7 gün içinde (29.10.2026 sonuna kadar) Resmî Gazete'de yayımlanacak mı?",
    "title": "TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "rg_date": "2026-10-27"
   },
   {
    "adopted": "2026-10-22",
@@ -57,8 +63,9 @@
    "qid": "c0b347644c5966ef",
    "statement_tr": "7596 sayılı \"TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN\", TBMM Genel Kurulunda kabul edildiği 22.10.2026 tarihinden itibaren 14 gün içinde (05.11.2026 sonuna kadar) Resmî Gazete'de yayımlanacak mı?",
    "title": "TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "rg_date": "2026-10-27"
   }
  ]
 }

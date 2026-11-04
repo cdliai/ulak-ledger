@@ -2,9 +2,13 @@
  "summary": {
   "file": "prereg_cpi_20261018T085936Z.jsonl",
   "n": 2,
-  "resolved": 0,
-  "open": 2,
-  "yes_so_far": 0
+  "resolved": 2,
+  "open": 0,
+  "yes_so_far": 1,
+  "brier": 0.089,
+  "brier_by_model": {
+   "ulak-core.cpi.v1.bayes_studentt": 0.089
+  }
  },
  "items": [
   {
@@ -55,8 +59,10 @@
    "stage": "early",
    "statement_tr": "TÜİK'in 03.11.2026 tarihinde (saat 10:00) açıklayacağı Ekim 2026 aylık TÜFE değişimi, TCMB Piyasa Katılımcıları Anketi beklentisi olan %2,11 düzeyinin üzerinde mi gelecek?",
    "threshold_pp": 0.0,
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "actual": 2.58,
+   "actual_available_at": "2026-11-03T07:00:00+00:00"
   },
   {
    "as_of": "2026-10-18T08:58:00+00:00",
@@ -106,8 +112,10 @@
    "stage": "early",
    "statement_tr": "TÜİK'in 03.11.2026 tarihinde (saat 10:00) açıklayacağı Ekim 2026 aylık TÜFE değişimi, TCMB Piyasa Katılımcıları Anketi beklentisinin (%2,11) 0,5 puandan fazla üzerinde, yani %2,61 düzeyinin üzerinde mi gelecek?",
    "threshold_pp": 0.5,
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0,
+   "actual": 2.58,
+   "actual_available_at": "2026-11-03T07:00:00+00:00"
   }
  ]
 }

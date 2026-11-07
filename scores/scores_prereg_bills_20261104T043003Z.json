@@ -2,9 +2,10 @@
  "summary": {
   "file": "prereg_bills_20261104T043003Z.jsonl",
   "n": 235,
-  "resolved": 0,
-  "open": 235,
-  "yes_so_far": 0
+  "resolved": 2,
+  "open": 233,
+  "yes_so_far": 2,
+  "brier": 0.6274
  },
  "items": [
   {
@@ -2832,8 +2833,8 @@
    "stage": "S1",
    "statement_tr": "\"Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uy\" 04.12.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-11-04T04:30:00+00:00",
@@ -2846,8 +2847,8 @@
    "stage": "S1",
    "statement_tr": "\"Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uy\" 03.01.2027 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1
   },
   {
    "as_of": "2026-11-04T04:30:00+00:00",

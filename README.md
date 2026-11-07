@@ -15,10 +15,10 @@ meeting?".
 3. Published forecast files are never edited. Withdrawn files stay public under
    `withdrawn/`, with the reason.
 
-## Status (updated 2026-11-06 05:05 UTC)
+## Status (updated 2026-11-07 05:05 UTC)
 
-- Forecasts registered: **6294** (official files only)
-- Resolved so far: **38**
+- Forecasts registered: **6553** (official files only)
+- Resolved so far: **61**
 
 | File | Forecasts | Resolved | Brier (resolved) |
 |---|---|---|---|
@@ -29,22 +29,23 @@ meeting?".
 | prereg_bills_20261019T043003Z.jsonl | 203 | 1 | 0.122 |
 | prereg_bills_20261020T043002Z.jsonl | 213 | 2 | 0.0873 |
 | prereg_bills_20261021T043003Z.jsonl | 212 | 2 | 0.0873 |
-| prereg_bills_20261022T043003Z.jsonl | 217 | 2 | 0.0873 |
-| prereg_bills_20261023T043003Z.jsonl | 216 | 0 | — |
-| prereg_bills_20261024T043003Z.jsonl | 217 | 0 | — |
-| prereg_bills_20261025T043003Z.jsonl | 217 | 0 | — |
-| prereg_bills_20261026T043003Z.jsonl | 217 | 0 | — |
-| prereg_bills_20261027T043003Z.jsonl | 217 | 0 | — |
-| prereg_bills_20261028T043004Z.jsonl | 222 | 0 | — |
-| prereg_bills_20261029T043003Z.jsonl | 231 | 0 | — |
-| prereg_bills_20261030T043003Z.jsonl | 229 | 0 | — |
-| prereg_bills_20261031T043003Z.jsonl | 230 | 0 | — |
-| prereg_bills_20261101T043003Z.jsonl | 230 | 0 | — |
-| prereg_bills_20261102T043003Z.jsonl | 230 | 0 | — |
-| prereg_bills_20261103T043003Z.jsonl | 237 | 0 | — |
-| prereg_bills_20261104T043003Z.jsonl | 235 | 0 | — |
-| prereg_bills_20261105T043003Z.jsonl | 244 | 0 | — |
-| prereg_bills_20261106T043003Z.jsonl | 244 | 0 | — |
+| prereg_bills_20261022T043003Z.jsonl | 217 | 3 | 0.375 |
+| prereg_bills_20261023T043003Z.jsonl | 216 | 1 | 0.9504 |
+| prereg_bills_20261024T043003Z.jsonl | 217 | 1 | 0.9504 |
+| prereg_bills_20261025T043003Z.jsonl | 217 | 1 | 0.9504 |
+| prereg_bills_20261026T043003Z.jsonl | 217 | 1 | 0.9504 |
+| prereg_bills_20261027T043003Z.jsonl | 217 | 1 | 0.9504 |
+| prereg_bills_20261028T043004Z.jsonl | 222 | 1 | 0.9504 |
+| prereg_bills_20261029T043003Z.jsonl | 231 | 1 | 0.9504 |
+| prereg_bills_20261030T043003Z.jsonl | 229 | 1 | 0.9504 |
+| prereg_bills_20261031T043003Z.jsonl | 230 | 2 | 0.6384 |
+| prereg_bills_20261101T043003Z.jsonl | 230 | 2 | 0.6273 |
+| prereg_bills_20261102T043003Z.jsonl | 230 | 2 | 0.6274 |
+| prereg_bills_20261103T043003Z.jsonl | 237 | 2 | 0.6274 |
+| prereg_bills_20261104T043003Z.jsonl | 235 | 2 | 0.6274 |
+| prereg_bills_20261105T043003Z.jsonl | 244 | 2 | 0.6274 |
+| prereg_bills_20261106T043003Z.jsonl | 244 | 2 | 0.6274 |
+| prereg_bills_20261107T043003Z.jsonl | 257 | 0 | — |
 | prereg_cpi_20261018T085936Z.jsonl | 2 | 2 | 0.089 |
 | prereg_cpi_20261102T043607Z.jsonl | 2 | 2 | 0.0879 |
 | prereg_cpi_20261103T043606Z.jsonl | 2 | 2 | 0.0857 |
@@ -52,6 +53,7 @@ meeting?".
 | prereg_index_20261026T065301Z.jsonl | 388 | 0 | — |
 | prereg_index_20261102T064606Z.jsonl | 388 | 0 | — |
 | prereg_rg_20261023T044024Z.jsonl | 2 | 2 | 0.1997 |
+| prereg_rg_20261107T044024Z.jsonl | 2 | 0 | — |
 | prereg_tcmb_20261017T113447Z.jsonl | 2 | 2 | 0.3209 |
 
 ## Record format

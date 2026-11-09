@@ -37,6 +37,7 @@
 | [prereg_index_20261019T065540Z.jsonl](forecasts/prereg_index_20261019T065540Z.jsonl) | 2026-10-19 06:55 UTC | 386 | `5dee023f6751a2d623d1af41caf596636f2a57b9bd1d4aad382f06b6b5ea72c0` | official |
 | [prereg_index_20261026T065301Z.jsonl](forecasts/prereg_index_20261026T065301Z.jsonl) | 2026-10-26 06:53 UTC | 388 | `ca5f521c2dc464b007c677a96bb17aa64549c99afc5b744030498a11f5ffb4be` | official |
 | [prereg_index_20261102T064606Z.jsonl](forecasts/prereg_index_20261102T064606Z.jsonl) | 2026-11-02 06:46 UTC | 388 | `7063864bc98cbc8910849705e13c350f16d260a51e6b1affda45ba8437fc311f` | official |
+| [prereg_index_20261109T070113Z.jsonl](forecasts/prereg_index_20261109T070113Z.jsonl) | 2026-11-09 07:01 UTC | 388 | `19c57b852053c54d1c77a78fa02bde430f9aac8246145cb353906305a9ec6dcc` | official |
 | [prereg_rg_20261023T044024Z.jsonl](forecasts/prereg_rg_20261023T044024Z.jsonl) | 2026-10-23 04:40 UTC | 2 | `e5f5661231193e3da0c922520cbded82411993b647a4c207e4b412981f18d493` | official |
 | [prereg_rg_20261107T044024Z.jsonl](forecasts/prereg_rg_20261107T044024Z.jsonl) | 2026-11-07 04:40 UTC | 2 | `8a1c49937300c5e226270c016c50dac41fcc23b50f9e29a381df8a7bb5b89655` | official |
 | [prereg_tcmb_20261017T113447Z.jsonl](forecasts/prereg_tcmb_20261017T113447Z.jsonl) | 2026-10-17 11:34 UTC | 2 | `27ca63210e88dcc6a76dce4ab9238a323e5101f54dfa8fb46c52e2e21616680a` | official |

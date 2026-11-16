@@ -37,9 +37,11 @@
 | [prereg_bills_20261113T043006Z.jsonl](forecasts/prereg_bills_20261113T043006Z.jsonl) | 2026-11-13 04:30 UTC | 274 | `34ec94f8a814612c238f2d4c083fc59e2ca514bf19d0ddb97a8c80042600c1e6` | official |
 | [prereg_bills_20261114T043003Z.jsonl](forecasts/prereg_bills_20261114T043003Z.jsonl) | 2026-11-14 04:30 UTC | 274 | `03dd434b7072a778583b940542648e0703f78abe94a39b4ece4fe2a03319f9cb` | official |
 | [prereg_bills_20261115T043003Z.jsonl](forecasts/prereg_bills_20261115T043003Z.jsonl) | 2026-11-15 04:30 UTC | 274 | `3efcf408c9d0b8ebf3becaed61835071a9256b247dc261213c305871359064c0` | official |
+| [prereg_bills_20261116T043003Z.jsonl](forecasts/prereg_bills_20261116T043003Z.jsonl) | 2026-11-16 04:30 UTC | 274 | `96ce5804291d4d352bbe376d5c4d5ccfd479f8fb6040db0cdc4fc0a908080554` | official |
 | [prereg_cpi_20261018T085936Z.jsonl](forecasts/prereg_cpi_20261018T085936Z.jsonl) | 2026-10-18 08:59 UTC | 2 | `f0d4943431960667ce931775d2ca2e7b8e6190c46f2c4d2bf450e65b96592d2c` | official |
 | [prereg_cpi_20261102T043607Z.jsonl](forecasts/prereg_cpi_20261102T043607Z.jsonl) | 2026-11-02 04:36 UTC | 2 | `4d02ada4e52336411588b65f0c04d546fd3f990907aa487bc8449ad1de69f963` | official |
 | [prereg_cpi_20261103T043606Z.jsonl](forecasts/prereg_cpi_20261103T043606Z.jsonl) | 2026-11-03 04:36 UTC | 2 | `5ecee2392ed34ca3d7de84d5cf68b006e89ccd971d312408714cc4f74db1e8d7` | official |
+| [prereg_cpi_20261116T043608Z.jsonl](forecasts/prereg_cpi_20261116T043608Z.jsonl) | 2026-11-16 04:36 UTC | 2 | `e9eaa8d302cc494675c750c7c3aa77f1345c5072bd9479efe84a7f96d971f03b` | official |
 | [prereg_index_20261019T065540Z.jsonl](forecasts/prereg_index_20261019T065540Z.jsonl) | 2026-10-19 06:55 UTC | 386 | `5dee023f6751a2d623d1af41caf596636f2a57b9bd1d4aad382f06b6b5ea72c0` | official |
 | [prereg_index_20261026T065301Z.jsonl](forecasts/prereg_index_20261026T065301Z.jsonl) | 2026-10-26 06:53 UTC | 388 | `ca5f521c2dc464b007c677a96bb17aa64549c99afc5b744030498a11f5ffb4be` | official |
 | [prereg_index_20261102T064606Z.jsonl](forecasts/prereg_index_20261102T064606Z.jsonl) | 2026-11-02 06:46 UTC | 388 | `7063864bc98cbc8910849705e13c350f16d260a51e6b1affda45ba8437fc311f` | official |

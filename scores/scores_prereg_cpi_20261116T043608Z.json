@@ -1,0 +1,113 @@
+{
+ "summary": {
+  "file": "prereg_cpi_20261116T043608Z.jsonl",
+  "n": 2,
+  "resolved": 0,
+  "open": 2,
+  "yes_so_far": 0
+ },
+ "items": [
+  {
+   "as_of": "2026-11-16T04:35:00+00:00",
+   "deadline": "2026-12-03T07:05:00+00:00",
+   "family": "cpi.above_consensus",
+   "inputs": {
+    "consensus": 1.09,
+    "consensus_available_at": "2026-11-13T07:00:00+00:00",
+    "consensus_mapping_check": {
+     "corr": 0.814,
+     "mae_pp": 0.671,
+     "n": 186
+    },
+    "consensus_series": "tcmb.survey.cpi_m_current",
+    "consensus_survey_key": "2026-11",
+    "model": {
+     "benzin_chg": -6.2081,
+     "consensus": 1.09,
+     "divergences": 0,
+     "draws": 4000,
+     "fit_cut": "2026-01-01T00:00:00+00:00",
+     "fit_first_ref": "2011-03",
+     "fit_last_ref": "2025-11",
+     "fit_releases": 175,
+     "fuel_chg": -2.1147,
+     "fuel_usd_window": "2026-11 average of values visible at as_of vs the 2026-11 − 1 month average",
+     "ito_avail": 0.0,
+     "ito_gap": 0.0,
+     "ito_mom": null,
+     "january": 0.0,
+     "last_release_ref": "2026-10",
+     "log_scale": -0.7856,
+     "mean_surprise_12": 0.1258,
+     "motorin_chg": 1.9788,
+     "pos_share_12": 0.5,
+     "prev_surprise": 0.47,
+     "seed": 2026,
+     "train_question_lead_hours": 48.0,
+     "usd_chg": 1.4239
+    }
+   },
+   "model_id": "ulak-core.cpi.v1.bayes_studentt",
+   "p": 0.4472,
+   "qid": "2694ee4d8ff399c2",
+   "ref_period": "2026-11",
+   "release": "2026-12-03T07:00:00+00:00",
+   "stage": "early",
+   "statement_tr": "TÜİK'in 03.12.2026 tarihinde (saat 10:00) açıklayacağı Kasım 2026 aylık TÜFE değişimi, TCMB Piyasa Katılımcıları Anketi beklentisi olan %1,09 düzeyinin üzerinde mi gelecek?",
+   "threshold_pp": 0.0,
+   "status": "open",
+   "outcome": null
+  },
+  {
+   "as_of": "2026-11-16T04:35:00+00:00",
+   "deadline": "2026-12-03T07:05:00+00:00",
+   "family": "cpi.above_consensus_0.5pp",
+   "inputs": {
+    "consensus": 1.09,
+    "consensus_available_at": "2026-11-13T07:00:00+00:00",
+    "consensus_mapping_check": {
+     "corr": 0.814,
+     "mae_pp": 0.671,
+     "n": 186
+    },
+    "consensus_series": "tcmb.survey.cpi_m_current",
+    "consensus_survey_key": "2026-11",
+    "model": {
+     "benzin_chg": -6.2081,
+     "consensus": 1.09,
+     "divergences": 0,
+     "draws": 4000,
+     "fit_cut": "2026-01-01T00:00:00+00:00",
+     "fit_first_ref": "2011-03",
+     "fit_last_ref": "2025-11",
+     "fit_releases": 175,
+     "fuel_chg": -2.1147,
+     "fuel_usd_window": "2026-11 average of values visible at as_of vs the 2026-11 − 1 month average",
+     "ito_avail": 0.0,
+     "ito_gap": 0.0,
+     "ito_mom": null,
+     "january": 0.0,
+     "last_release_ref": "2026-10",
+     "log_scale": -0.7856,
+     "mean_surprise_12": 0.1258,
+     "motorin_chg": 1.9788,
+     "pos_share_12": 0.5,
+     "prev_surprise": 0.47,
+     "seed": 2026,
+     "train_question_lead_hours": 48.0,
+     "usd_chg": 1.4239
+    }
+   },
+   "model_id": "ulak-core.cpi.v1.bayes_studentt",
+   "p": 0.1388,
+   "qid": "22a96242f4d86155",
+   "ref_period": "2026-11",
+   "release": "2026-12-03T07:00:00+00:00",
+   "stage": "early",
+   "statement_tr": "TÜİK'in 03.12.2026 tarihinde (saat 10:00) açıklayacağı Kasım 2026 aylık TÜFE değişimi, TCMB Piyasa Katılımcıları Anketi beklentisinin (%1,09) 0,5 puandan fazla üzerinde, yani %1,59 düzeyinin üzerinde mi gelecek?",
+   "threshold_pp": 0.5,
+   "status": "open",
+   "outcome": null
+  }
+ ]
+}

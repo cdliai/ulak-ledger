@@ -2,11 +2,12 @@
  "summary": {
   "file": "prereg_rg_20261107T044024Z.jsonl",
   "n": 2,
-  "resolved": 1,
-  "open": 1,
-  "yes_so_far": 0,
-  "brier": 0.2844,
+  "resolved": 2,
+  "open": 0,
+  "yes_so_far": 1,
+  "brier": 0.1428,
   "brier_by_model": {
+   "ulak-core.rg.v1.km_recent60.shadow": 0.0011,
    "ulak-core.rg.v1.recent_ecdf": 0.2844
   }
  },
@@ -36,7 +37,7 @@
    "title": "TÜRKİYE CUMHURİYETİ, PAKİSTAN İSLAM CUMHURİYETİ VE SUUDİ ARABİSTAN KRALLIĞI ARASINDA ORTAK SAVUNMA İÇİN MEKKE ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN",
    "status": "resolved",
    "outcome": 0,
-   "rg_date": null
+   "rg_date": "2026-11-14"
   },
   {
    "adopted": "2026-11-05",
@@ -62,8 +63,9 @@
    "qid": "995681f8acaca661",
    "statement_tr": "7597 sayılı \"TÜRKİYE CUMHURİYETİ, PAKİSTAN İSLAM CUMHURİYETİ VE SUUDİ ARABİSTAN KRALLIĞI ARASINDA ORTAK SAVUNMA İÇİN MEKKE ANLAŞMASININ ONAYLANMASININ UY\", TBMM Genel Kurulunda kabul edildiği 05.11.2026 tarihinden itibaren 14 gün içinde (19.11.2026 sonuna kadar) Resmî Gazete'de yayımlanacak mı?",
    "title": "TÜRKİYE CUMHURİYETİ, PAKİSTAN İSLAM CUMHURİYETİ VE SUUDİ ARABİSTAN KRALLIĞI ARASINDA ORTAK SAVUNMA İÇİN MEKKE ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 1,
+   "rg_date": "2026-11-14"
   }
  ]
 }

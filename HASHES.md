@@ -41,6 +41,7 @@
 | [prereg_bills_20261117T043003Z.jsonl](forecasts/prereg_bills_20261117T043003Z.jsonl) | 2026-11-17 04:30 UTC | 274 | `97e1aedef2aaab0b198213435091d4be373ac3e3e361ff5e0946827ff2a0ab36` | official |
 | [prereg_bills_20261118T043003Z.jsonl](forecasts/prereg_bills_20261118T043003Z.jsonl) | 2026-11-18 04:30 UTC | 275 | `cdbfb99c946d87908e46233dc7a5e5011ae65f017a159949e16c653a50303d98` | official |
 | [prereg_bills_20261119T043003Z.jsonl](forecasts/prereg_bills_20261119T043003Z.jsonl) | 2026-11-19 04:30 UTC | 295 | `02a172846d6ffaf14bbb51d934d04755029470ac66a2650a0680456afdcdacfe` | official |
+| [prereg_bills_20261120T043003Z.jsonl](forecasts/prereg_bills_20261120T043003Z.jsonl) | 2026-11-20 04:30 UTC | 296 | `3634f20cf72c1d4d959794f834e9a11458c0c2caefa865199fb8d0ec77a0a837` | official |
 | [prereg_cpi_20261018T085936Z.jsonl](forecasts/prereg_cpi_20261018T085936Z.jsonl) | 2026-10-18 08:59 UTC | 2 | `f0d4943431960667ce931775d2ca2e7b8e6190c46f2c4d2bf450e65b96592d2c` | official |
 | [prereg_cpi_20261102T043607Z.jsonl](forecasts/prereg_cpi_20261102T043607Z.jsonl) | 2026-11-02 04:36 UTC | 2 | `4d02ada4e52336411588b65f0c04d546fd3f990907aa487bc8449ad1de69f963` | official |
 | [prereg_cpi_20261103T043606Z.jsonl](forecasts/prereg_cpi_20261103T043606Z.jsonl) | 2026-11-03 04:36 UTC | 2 | `5ecee2392ed34ca3d7de84d5cf68b006e89ccd971d312408714cc4f74db1e8d7` | official |
@@ -52,4 +53,5 @@
 | [prereg_index_20261116T064823Z.jsonl](forecasts/prereg_index_20261116T064823Z.jsonl) | 2026-11-16 06:48 UTC | 388 | `894f9ca372b4966a464aab0ba9fb350e729a3c0d816f4cd9404542f978ea0dcc` | official |
 | [prereg_rg_20261023T044024Z.jsonl](forecasts/prereg_rg_20261023T044024Z.jsonl) | 2026-10-23 04:40 UTC | 2 | `e5f5661231193e3da0c922520cbded82411993b647a4c207e4b412981f18d493` | official |
 | [prereg_rg_20261107T044024Z.jsonl](forecasts/prereg_rg_20261107T044024Z.jsonl) | 2026-11-07 04:40 UTC | 2 | `8a1c49937300c5e226270c016c50dac41fcc23b50f9e29a381df8a7bb5b89655` | official |
+| [prereg_rg_20261120T044023Z.jsonl](forecasts/prereg_rg_20261120T044023Z.jsonl) | 2026-11-20 04:40 UTC | 2 | `f72f5eab577c85fdd740c22d19bfc726d796a4bfc88f201cadabf4805247f583` | official |
 | [prereg_tcmb_20261017T113447Z.jsonl](forecasts/prereg_tcmb_20261017T113447Z.jsonl) | 2026-10-17 11:34 UTC | 2 | `27ca63210e88dcc6a76dce4ab9238a323e5101f54dfa8fb46c52e2e21616680a` | official |

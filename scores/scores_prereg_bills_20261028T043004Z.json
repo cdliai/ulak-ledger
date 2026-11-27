@@ -2,10 +2,10 @@
  "summary": {
   "file": "prereg_bills_20261028T043004Z.jsonl",
   "n": 222,
-  "resolved": 1,
-  "open": 221,
+  "resolved": 20,
+  "open": 202,
   "yes_so_far": 1,
-  "brier": 0.9504
+  "brier": 0.0603
  },
  "items": [
   {
@@ -1951,8 +1951,8 @@
    "stage": "S1",
    "statement_tr": "\"Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -1979,8 +1979,8 @@
    "stage": "S1",
    "statement_tr": "\"Türk Silahlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Türk Silahlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2007,8 +2007,8 @@
    "stage": "S1",
    "statement_tr": "\"Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2035,8 +2035,8 @@
    "stage": "S1",
    "statement_tr": "\"Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkındaki Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkındaki Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2063,8 +2063,8 @@
    "stage": "S1",
    "statement_tr": "\"Emniyet Teşkilat Kanunu ile Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Emniyet Teşkilat Kanunu ile Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2091,8 +2091,8 @@
    "stage": "S1",
    "statement_tr": "\"Türkiye Cumhuriyeti Emekli Sandığı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2119,8 +2119,8 @@
    "stage": "S1",
    "statement_tr": "\"Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2147,8 +2147,8 @@
    "stage": "S1",
    "statement_tr": "\"Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2175,8 +2175,8 @@
    "stage": "S1",
    "statement_tr": "\"3065 Sayılı Katma Değer Vergisi Kanunu İle 4760 Sayılı Özel Tüketim Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "3065 Sayılı Katma Değer Vergisi Kanunu İle 4760 Sayılı Özel Tüketim Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2203,8 +2203,8 @@
    "stage": "S1",
    "statement_tr": "\"3065 Sayılı Katma Değer Vergisi Kanunu İle 4760 Sayılı Özel Tüketim Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "3065 Sayılı Katma Değer Vergisi Kanunu İle 4760 Sayılı Özel Tüketim Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2231,8 +2231,8 @@
    "stage": "S1",
    "statement_tr": "\"Ordu Yardımlaşma Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Ordu Yardımlaşma Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2259,8 +2259,8 @@
    "stage": "S1",
    "statement_tr": "\"926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2287,8 +2287,8 @@
    "stage": "S1",
    "statement_tr": "\"926 Sayılı Türk Silâhlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "926 Sayılı Türk Silâhlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2315,8 +2315,8 @@
    "stage": "S1",
    "statement_tr": "\"Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2343,8 +2343,8 @@
    "stage": "S1",
    "statement_tr": "\"3269 Sayılı Uzman Erbaş Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "3269 Sayılı Uzman Erbaş Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2371,8 +2371,8 @@
    "stage": "S1",
    "statement_tr": "\"926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2399,8 +2399,8 @@
    "stage": "S1",
    "statement_tr": "\"Bakanlık ile Bağdaşmayan İşler Hakkında Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Bakanlık ile Bağdaşmayan İşler Hakkında Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2427,8 +2427,8 @@
    "stage": "S1",
    "statement_tr": "\"Maden Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Maden Kanununda Değişiklik Yapılmasına İlişkin Kanun Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",
@@ -2595,8 +2595,8 @@
    "stage": "S1",
    "statement_tr": "\"Yabancı Dijital Konaklama Platformları Kanunu Teklifi\" 27.11.2026 tarihine kadar TBMM Genel Kurulunda kabul edilecek mi?",
    "title": "Yabancı Dijital Konaklama Platformları Kanunu Teklifi",
-   "status": "open",
-   "outcome": null
+   "status": "resolved",
+   "outcome": 0
   },
   {
    "as_of": "2026-10-28T04:30:00+00:00",

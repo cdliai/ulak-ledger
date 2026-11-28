@@ -15,10 +15,10 @@ meeting?".
 3. Published forecast files are never edited. Withdrawn files stay public under
    `withdrawn/`, with the reason.
 
-## Status (updated 2026-11-27 05:05 UTC)
+## Status (updated 2026-11-28 05:05 UTC)
 
-- Forecasts registered: **13046** (official files only)
-- Resolved so far: **322**
+- Forecasts registered: **13344** (official files only)
+- Resolved so far: **342**
 
 | File | Forecasts | Resolved | Brier (resolved) |
 |---|---|---|---|
@@ -36,7 +36,7 @@ meeting?".
 | prereg_bills_20261026T043003Z.jsonl | 217 | 20 | 0.0603 |
 | prereg_bills_20261027T043003Z.jsonl | 217 | 20 | 0.0603 |
 | prereg_bills_20261028T043004Z.jsonl | 222 | 20 | 0.0603 |
-| prereg_bills_20261029T043003Z.jsonl | 231 | 1 | 0.9504 |
+| prereg_bills_20261029T043003Z.jsonl | 231 | 20 | 0.0603 |
 | prereg_bills_20261030T043003Z.jsonl | 229 | 1 | 0.9504 |
 | prereg_bills_20261031T043003Z.jsonl | 230 | 2 | 0.6384 |
 | prereg_bills_20261101T043003Z.jsonl | 230 | 2 | 0.6273 |
@@ -65,6 +65,7 @@ meeting?".
 | prereg_bills_20261124T043003Z.jsonl | 303 | 0 | — |
 | prereg_bills_20261126T043003Z.jsonl | 299 | 0 | — |
 | prereg_bills_20261127T043003Z.jsonl | 299 | 0 | — |
+| prereg_bills_20261128T043003Z.jsonl | 298 | 0 | — |
 | prereg_cpi_20261018T085936Z.jsonl | 2 | 2 | 0.089 |
 | prereg_cpi_20261102T043607Z.jsonl | 2 | 2 | 0.0879 |
 | prereg_cpi_20261103T043606Z.jsonl | 2 | 2 | 0.0857 |
@@ -77,7 +78,7 @@ meeting?".
 | prereg_index_20261123T064252Z.jsonl | 388 | 0 | — |
 | prereg_rg_20261023T044024Z.jsonl | 2 | 2 | 0.1997 |
 | prereg_rg_20261107T044024Z.jsonl | 2 | 2 | 0.1428 |
-| prereg_rg_20261120T044023Z.jsonl | 2 | 0 | — |
+| prereg_rg_20261120T044023Z.jsonl | 2 | 1 | 0.1275 |
 | prereg_tcmb_20261017T113447Z.jsonl | 2 | 2 | 0.3209 |
 
 ## Record format
